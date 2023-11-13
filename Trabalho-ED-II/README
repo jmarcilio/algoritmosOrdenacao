@@ -1,8 +1,0 @@
-Para compilar o projeto basta digitar "make all", no cmd
-
-Para executar devesse digitar "./gera [-a , -c, -d] [inteiro que indique a quantidade de numeros que quer que seja gerado]"
-
-
-
-
-Programa criado por Dionata Kruger e Joao Marcílio
